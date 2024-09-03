@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "100878785153",
+    "firebase_url": "https://icare-e39ca-default-rtdb.firebaseio.com",
+    "project_id": "icare-e39ca",
+    "storage_bucket": "icare-e39ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100878785153:android:f8817774f297fee5944b80",
+        "android_client_info": {
+          "package_name": "com.example.mini_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100878785153-oqupvqbc6o0a7c0cinfn1g7bvdu2kp7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXdP1Ibg-8_quNobFqQAMu9xirSAHhOMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100878785153-oqupvqbc6o0a7c0cinfn1g7bvdu2kp7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
